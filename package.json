@@ -1,0 +1,29 @@
+{
+  "name": "frontend-docker-starter-kit",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "serve": "echo 'your serve script here'",
+    "build": "echo 'your build script here'",
+    "test": "echo 'your test script here'"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "description": "A template to start frontend projects with docker.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredicious/frontend-docker-starter-kit.git"
+  },
+  "keywords": [
+    "frontend",
+    "docker",
+    "starter-kit"
+  ],
+  "author": "@fredicious (Frederic Cabassut)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fredicious/frontend-docker-starter-kit/issues"
+  },
+  "homepage": "https://github.com/fredicious/frontend-docker-starter-kit#readme"
+}
